@@ -16,10 +16,10 @@
 ### Heroku - Ferramenta de CD - Continuous Delivery
 -- Plataforma para fazer Deploy de nossa aplicação
 
-### FASE FINAL ( Aplicação em produção ou pronta para usar) 
+### Fase Final ( Aplicação em produção ou pronta para usar) 
 -- Ver e testar app (Aplicação),  gerada
 
-## :: NOTA PROJETO 
+## :: Observações
 
 Pipeline criada apartir do curso de DevOps Essential da 4Linux 
 :: Acesse Gratuitamente em https://www.4linux.com.br/curso/devops-gratis
